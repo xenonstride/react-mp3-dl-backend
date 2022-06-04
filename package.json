@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "await-spawn": "^4.0.2",
+    "axios": "^0.25.0",
+    "catch-async-express": "^1.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "mongoose": "^6.2.2",
+    "morgan": "^1.10.0",
+    "node-id3": "^0.2.3",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1",
+    "spotify-to-youtube": "^1.0.2",
+    "spotify-web-api-node": "^5.0.2",
+    "stream-to": "^2.0.0",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
